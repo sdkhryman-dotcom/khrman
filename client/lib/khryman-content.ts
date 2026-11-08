@@ -374,8 +374,8 @@ export const story = {
     en: "Amber — “kahraman” in Arabic — is a golden gemstone formed slowly over millions of years. We chose it because it holds what we believe in: precious value, deep-rooted authenticity and lasting energy.",
   } as L,
   logoMeaning: {
-    ar: "ثلاثة أهلّة متداخلة ترمز لتكامل قطاعاتنا وحركتها المستمرة، ورأس الذئب في المركز رمزٌ للقوة والقيادة وروح الفريق.",
-    en: "Three interlocking crescents stand for our integrated sectors in constant motion; the wolf at the centre stands for strength, leadership and team spirit.",
+    ar: "ثلاثة أهلّة متداخلة ترمز لتكامل قطاعاتنا وحركتها المستمرة، ورأس الثعلب في المركز رمزٌ للذكاء والحكمة وسرعة البديهة.",
+    en: "Three interlocking crescents stand for our integrated sectors in constant motion; the fox at the centre stands for intelligence, wisdom and quick thinking.",
   } as L,
 };
 
